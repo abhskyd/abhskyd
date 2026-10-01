@@ -4,7 +4,7 @@ Software developer working across the stack — from low-level systems to full-s
 
 ## Interests
 
-- **Low-level programming** — C, systems internals, memory & pointers
+- **Low-level programming** — C, Rust, C++, systems internals, memory & pointers
 - **AI** — machine learning & AI engineering
 - **Full-stack** — end-to-end web applications
 - **Web3** — decentralized technologies
